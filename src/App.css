@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+.ken {
+  height: 50px;
+  width: 50px;
+}
+.my-custom-class{
+  height: 20px;
+}
+.testimonial-item {
+  height: 50px;
+}
